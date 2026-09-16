@@ -19,11 +19,11 @@ int main() {
 
 
   cout << "=== About me ===" << endl;
-  cout << "The year is : " << CURRENT_YEAR << endl;
-  cout << "Name : " << first_name << endl;
-  cout << "Age : " << age << endl;
-  cout << "Height : " << height << " meters" << endl;
-  cout << "First initial : " << first_initial << endl;
-  cout << "Student : " << isStudent << endl;
+  cout << "The year is: " << CURRENT_YEAR << endl;
+  cout << "Name: " << first_name << endl;
+  cout << "Age: " << age << endl;
+  cout << "Height: " << height << " meters" << endl;
+  cout << "First initial: " << first_initial << endl;
+  cout << "Student: " << isStudent << endl;
   return 0;
 }
