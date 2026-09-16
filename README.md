@@ -1,3 +1,6 @@
+
+
+
 # Lab 3 · A typed about-me
 
 **Week 03 · Types & variables**  
@@ -10,7 +13,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** https://github.com/user-attachments/assets/3e3635e3-f677-4d7c-a9f6-47e9811a95b3
 
 
 ## Scenario
